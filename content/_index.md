@@ -26,7 +26,7 @@ sections:
     content:
       title: Photographs
       username: admin
-     button:
+      button:
         text: Download Résumé
         url: uploads/resume.pdf
   - block: gift
