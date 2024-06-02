@@ -8,8 +8,8 @@ design:
   design:
     banner:
       # Upload your cover image to the `assets/media/` folder and reference it here
-      placement: 3
-      focal_point: 'Top'
+      placement: 1
+      focal_point: 'Smart'
       preview_only: false
       filename: MyBackground.jpg
 
@@ -17,7 +17,7 @@ design:
 
 # Page sections
 sections:
-  - block: biography
+  - block: experience
     content:
       title: Medical Researches
       username: admin
