@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: MyBackground.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
@@ -33,16 +33,16 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
+  - block: medical research
     content:
-      title: Skills & Hobbies
+      title: Medical Researches
       username: admin
-  - block: awards
+  - block: photo
     content:
-      title: Awards
+      title: Photographs
       username: admin
-  - block: languages
+  - block: collections
     content:
-      title: Languages
+      title: Small Blessings
       username: admin
 ---
