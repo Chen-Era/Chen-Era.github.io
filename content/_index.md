@@ -6,7 +6,7 @@ type: landing
 design:
   # Default section spacing
   design:
-    banner:
+    image:
       # Upload your cover image to the `assets/media/` folder and reference it here
       placement: 1
       focal_point: 'Smart'
