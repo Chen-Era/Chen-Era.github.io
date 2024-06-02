@@ -11,7 +11,7 @@ design:
       placement: 1
       focal_point: 'Smart'
       preview_only: false
-      filename: assets/media/MyBackground.jpg
+      filename: MyBackground.jpg
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
