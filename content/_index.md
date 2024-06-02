@@ -22,14 +22,14 @@ sections:
     content:
       title: Medical Researches
       username: admin
-  - block: photo
+  - block: skills
     content:
       title: Photographs
       username: admin
       button:
         text: Download Résumé
         url: uploads/resume.pdf
-  - block: gift
+  - block: awards
     content:
       title: Small Blessings
       username: admin
