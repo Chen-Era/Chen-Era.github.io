@@ -5,7 +5,6 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
   design:
     banner:
       # Upload your cover image to the `assets/media/` folder and reference it here
