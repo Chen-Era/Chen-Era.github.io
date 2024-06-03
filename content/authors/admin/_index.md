@@ -3,7 +3,7 @@
 title: 陈纪元
 
 # Name pronunciation (optional)
-name_pronunciation: Ji Yuan Chen
+name_pronunciation: Chen Ji Yuan
 
 # Full name (for SEO)
 first_name: Jiyuan
