@@ -11,7 +11,7 @@ last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕🫡
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,8 +34,6 @@ profiles:
     url: https://twitter.com/CJYorKing
   - icon: brands/github
     url: https://github.com/Chen-Era
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/cjyorking
   - icon: brands/instagram
     url: https://www.instagram.com/cjyorking
 
@@ -84,6 +82,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Photography
+        description: ''
+        percent: 70
+        icon: camera   
       - name: Running
         description: ''
         percent: 60
@@ -92,10 +94,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 70
-        icon: camera
+
 
 languages:
   - name: Chinese
