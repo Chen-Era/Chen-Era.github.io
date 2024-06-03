@@ -20,11 +20,13 @@ sections:
     author: admin
     
   - widget: portfolio
-    weight: 20
+  - block: collection
+    id: post
     content:
-      page_type: project
       title: 一个人做科研太轻松了，带上这个吧👆
-      filter_default: 0
+      fliter:
+        folders:
+          - project
       filter_button:
         - name: All
           tag: '*'
@@ -36,8 +38,7 @@ sections:
           tag: DC
     
     design:
-      columns: '1'
-      view: masonry
+      view: card
       flip_alt_rows: true
       background: {}
       spacing: {padding: [0, 0, 0, 0]} 
