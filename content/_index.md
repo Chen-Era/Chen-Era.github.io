@@ -16,15 +16,14 @@ sections:
         style: '.chinese-content'
 
   - widget: about.avatar
-    headless: true
     weight: 10
     author: admin
     
   - widget: portfolio
     weight: 20
-    title: 一个人做科研太轻松了，带上这个吧👆
     content:
       page_type: project
+      title: 一个人做科研太轻松了，带上这个吧👆
       filter_default: 0
       filter_button:
         - name: All
