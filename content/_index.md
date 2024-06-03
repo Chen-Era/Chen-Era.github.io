@@ -4,7 +4,7 @@
 
 # Page sections
 sections:
-  - block: github.Chen-Era.BloxsbyChen-biography
+  - block: github.Chen-Era.BloxsbyChen
     content:
       # The user's folder name in `content/authors/`
       username: admin
