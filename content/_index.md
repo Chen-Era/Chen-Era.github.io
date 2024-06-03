@@ -10,16 +10,16 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
-      button:
-        text: Download Résumé
-        url: uploads/resume.pdf
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
         filename: 'MyBackground.jpg'
       biography:
         # Customize the CSS style of your biography text (optional)
-        style: ''
+        style: 'font.scss'
+      button:
+        text: Download Résumé
+        url: uploads/resume.pdf
   - block: collection
     id: photos
     content:
