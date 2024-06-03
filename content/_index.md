@@ -22,15 +22,14 @@ sections:
     headless: true
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
-      fliters:
+      filters:
         folders:
           - project
-        tage: MR
+        tags:
+          - MR
     design:
       view: card
-      flip_alt_rows: true
-      background: {}
-      spacing: {padding: [0, 0, 0, 0]} 
+
 
   - block: collection
     id: photos
@@ -46,7 +45,8 @@ sections:
         # The folders to display content from
         folders:
           - project
-        tag: "Photo"
+        tags:
+          - Photo
         publication_type: ""
         featured_only: false
       offset: 0
