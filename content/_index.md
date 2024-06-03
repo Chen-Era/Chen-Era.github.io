@@ -16,12 +16,13 @@ sections:
         # Customize the CSS style of your biography text (optional)
         style: '.chinese-content'
 
-  - widget: portfolio
+  - block: collection
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
       text: 
-      page_type: project
-      filter_default: 0
+      filters:
+        folders:
+          - project
         kinds:
           - page
       # Default portfolio filter button
