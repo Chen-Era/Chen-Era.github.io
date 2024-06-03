@@ -19,7 +19,7 @@ sections:
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
       subtitle: ''
-      text: 'Constantly updated, if possible()'
+      text: '大概率断更，小概率退坑（'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       filters:
