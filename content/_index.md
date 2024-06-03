@@ -3,7 +3,7 @@
 sections:
   - block: resume-biography
     contents:
-      text:一个人做科研太轻松了，带上这个吧👆
+      bio:一个人做科研太轻松了，带上这个吧👆
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
@@ -12,7 +12,7 @@ sections:
         preview_only: false  
       biography:
         # Customize the CSS style of your biography text (optional)
-        style: 'font.scss'
+        style: ''
 
   - block: collection
     id: photos
