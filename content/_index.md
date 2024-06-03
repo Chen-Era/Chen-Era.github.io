@@ -21,7 +21,7 @@ sections:
     
   - widget: portfolio
   - block: collection
-    id: post
+    id: project
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
       fliter:
@@ -54,7 +54,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - project/photos
+          - project
         author: "admin"
         category: ""
         tag: "photos"
