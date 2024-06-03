@@ -1,13 +1,10 @@
 ---
+title: My page
+type: landing
 
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: resume-biography
     content:
-      # The user's folder name in `content/authors/`
-      username: admin
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
       button:
@@ -52,10 +49,6 @@ sections:
       # Choose a listing view
       view: card
 
-# A section created with the Portfolio widget.
-# This section displays content from `content/project/`.
-# See https://docs.hugoblox.com/widget/portfolio/
-sections:
   - block: portfolio
     id: projects
     content:
@@ -102,6 +95,4 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
-    
 ---
