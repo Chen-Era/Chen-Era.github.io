@@ -3,7 +3,7 @@
 title: 陈纪元
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ji Yuan Chen
 
 # Full name (for SEO)
 first_name: Jiyuan
