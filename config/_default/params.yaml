@@ -42,7 +42,7 @@ header:
     # Shop a call-to-action button in the top right?
     button:
       enable: true
-      text: "Get Started"
+      text: "Contact Me"
       url: ""
     # Let the user choose between light or dark mode?
     show_theme_chooser: true
