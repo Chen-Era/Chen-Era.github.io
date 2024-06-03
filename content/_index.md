@@ -14,15 +14,21 @@ sections:
         style: '.chinese-content'
 
   - block: collection
-    id: project
+    id: news
     headless: true
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
+      subtitle: ''
+      text: 'Constantly updated, if possible()'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
       filters:
         folders:
           - scholar
         tags:
           - "MR"
+      offset: 0
+      sort_ascending: false
     design:
       view: card
 
