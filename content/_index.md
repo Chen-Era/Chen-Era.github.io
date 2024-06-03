@@ -26,7 +26,7 @@ sections:
         folders:
           - project
         tags:
-          - MR
+          - "MR"
     design:
       view: card
 
@@ -46,9 +46,9 @@ sections:
         folders:
           - project
         tags:
-          - Photo
+          - "Photo"
         publication_type: ""
-        featured_only: false
+        featured_only: true
       offset: 0
       sort_ascending: false
     design:
