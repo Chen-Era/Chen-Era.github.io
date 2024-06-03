@@ -2,6 +2,10 @@
 
 sections:
   - block: resume-biography
+    contents:
+      title: Biography
+      username: admin
+      summary: '一个人做科研太轻松了，带上这个吧👆'
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
@@ -10,42 +14,11 @@ sections:
         preview_only: false  
       biography:
         # Customize the CSS style of your biography text (optional)
-        style: 'font.scss'
-
-  - block: collection
-    id: photos
-    content:
-      title: Photography
-      subtitle: ''
-      text: 'Basically shot in Lumix GX9'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - project/photos
-        author: "admin"
-        category: ""
-        tag: "photos"
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: card
+        style: '.chinese-content'
 
   - widget: portfolio
     content:
-      title: Collections
+      title: 一个人做科研太轻松了，带上这个吧👆
       text: 
       filters:
         # Folders to display content from
@@ -86,4 +59,37 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+
+  - block: collection
+    id: photos
+    content:
+      title: Photography
+      subtitle: ''
+      text: 'Basically shot in Lumix GX9'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - project/photos
+        author: "admin"
+        category: ""
+        tag: "photos"
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: card
+
+  
 ---

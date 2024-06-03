@@ -3,7 +3,7 @@
 title: 陈纪元
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ji Yuan Chen
 
 # Full name (for SEO)
 first_name: Jiyuan
@@ -22,7 +22,7 @@ role: Resident Doctor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Peking University Third Hospital
-    url: https://www.puh3.com/
+    url: https://www.puh3.net.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
