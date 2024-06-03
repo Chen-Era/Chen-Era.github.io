@@ -55,5 +55,25 @@ sections:
       # Choose a listing view
       view: card
 
-  
+  - block: collection
+    id: daily
+    headless: true
+    content:
+      title: Small Blessings
+      subtitle: ''
+      text: 'Which can save the day...'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - post
+        tags:
+          - "DC"
+      offset: 0
+      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: card
 ---
