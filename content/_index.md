@@ -13,8 +13,6 @@ sections:
         # Customize the CSS style of your biography text (optional)
         style: '.chinese-content'
 
-    
-  - widget: portfolio
   - block: collection
     id: project
     headless: true
