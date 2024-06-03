@@ -5,7 +5,6 @@ sections:
     contents:
       title: Biography
       username: admin
-      text: '一个人做科研太轻松了，带上这个吧👆'
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
@@ -16,24 +15,17 @@ sections:
         # Customize the CSS style of your biography text (optional)
         style: '.chinese-content'
 
-  - block: collection
+  - widget: about.avatar
+    headless: true
+    weight: 10
+    author: admin
+    
+  - widget: portfolio
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
-      text: 
-      filters:
-        folders:
-          - project
-        kinds:
-          - page
-      # Default portfolio filter button
-      # 0 corresponds to the first button below and so on
-      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
-      default_button_index: 0
-      # Filter button toolbar (optional).
-      # Add or remove as many buttons as you like.
-      # To show all content, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the button toolbar, delete the entire `buttons` block.
+      page_type: project
+      filter_default: 0
+
       filter_button:
         - name: All
           tag: '*'
