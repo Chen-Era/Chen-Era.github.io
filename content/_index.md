@@ -5,7 +5,7 @@ sections:
     contents:
       title: Biography
       username: admin
-      summary: '一个人做科研太轻松了，带上这个吧👆'
+      text: '一个人做科研太轻松了，带上这个吧👆'
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
@@ -23,7 +23,7 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - content/project
+          - /content/project
         # Only show content with these tags
         tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
