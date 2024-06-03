@@ -16,16 +16,17 @@ sections:
         style: '.chinese-content'
 
   - widget: about.avatar
-    headless: true
     weight: 10
     author: admin
     
   - widget: portfolio
-    weight: 20
-    title: 一个人做科研太轻松了，带上这个吧👆
+  - block: collection
+    id: post
     content:
-      page_type: project
-      filter_default: 0
+      title: 一个人做科研太轻松了，带上这个吧👆
+      fliter:
+        folders:
+          - project
       filter_button:
         - name: All
           tag: '*'
@@ -37,8 +38,7 @@ sections:
           tag: DC
     
     design:
-      columns: '1'
-      view: masonry
+      view: card
       flip_alt_rows: true
       background: {}
       spacing: {padding: [0, 0, 0, 0]} 
