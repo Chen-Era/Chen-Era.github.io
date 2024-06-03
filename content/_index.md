@@ -37,7 +37,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - photos
+          - project/photos
         author: "admin"
         category: ""
         tag: "photos"
