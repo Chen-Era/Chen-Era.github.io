@@ -1,10 +1,8 @@
 ---
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     contents:
-      username: admin
-      text: "一个人做科研太轻松了，带上这个吧👆"
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
