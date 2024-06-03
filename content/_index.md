@@ -2,12 +2,6 @@
 
 sections:
   - block: resume-biography
-    content:
-      # Show a call-to-action button under your biography? (optional)
-      # To link to a file, upload it to your `static/uploads/` folder
-      button:
-        text: Download Résumé
-        url: uploads/resume.pdf
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
@@ -47,19 +41,16 @@ sections:
       # Choose a listing view
       view: card
 
-  - block: portfolio
-    id: projects
+  - widget: portfolio
     content:
-      title: Projects
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Collections
+      text: 
       filters:
         # Folders to display content from
         folders:
-          - project
+          - content/project
         # Only show content with these tags
         tags: []
-        # Exclude content with these tags
-        exclude_tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
         kinds:
           - page
