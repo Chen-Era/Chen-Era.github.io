@@ -22,6 +22,7 @@ sections:
   - widget: portfolio
   - block: collection
     id: project
+    headless: true
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
       fliter:
@@ -44,6 +45,7 @@ sections:
 
   - block: collection
     id: photos
+    headless: true
     content:
       title: Photography
       subtitle: ''
