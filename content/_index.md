@@ -20,7 +20,7 @@ sections:
       title: 一个人做科研太轻松了，带上这个吧👆
       filters:
         folders:
-          - project
+          - post
         tags:
           - "MR"
     design:
@@ -33,7 +33,7 @@ sections:
     content:
       title: Photography
       subtitle: ''
-      text: 'Basically shot in Lumix GX9'
+      text: '📷: Lumix GX9'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -43,8 +43,6 @@ sections:
           - project
         tags:
           - "Photo"
-        publication_type: ""
-        featured_only: true
       offset: 0
       sort_ascending: false
     design:
