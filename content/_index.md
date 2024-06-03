@@ -24,9 +24,6 @@ sections:
       filter_default: 0
         kinds:
           - page
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
       # Default portfolio filter button
       # 0 corresponds to the first button below and so on
       # For example, 0 will default to showing all content as the first button below shows content with *any* tag
@@ -45,6 +42,7 @@ sections:
           tag: Photo
         - name: Daily Collection
           tag: DC
+    
     design:
       columns: '1'
       view: masonry
