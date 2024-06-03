@@ -43,16 +43,14 @@ sections:
 
   - widget: portfolio
     content:
-      title: Projects
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Collections
+      text: 
       filters:
         # Folders to display content from
         folders:
-          - project
+          - content/project
         # Only show content with these tags
         tags: []
-        # Exclude content with these tags
-        exclude_tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
         kinds:
           - page
