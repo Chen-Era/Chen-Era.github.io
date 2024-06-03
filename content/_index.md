@@ -15,9 +15,6 @@ sections:
         # Customize the CSS style of your biography text (optional)
         style: '.chinese-content'
 
-  - widget: about.avatar
-    weight: 10
-    author: admin
     
   - widget: portfolio
   - block: collection
@@ -25,18 +22,10 @@ sections:
     headless: true
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
-      fliter:
+      fliters:
         folders:
           - project
-      filter_button:
-        - name: All
-          tag: '*'
-        - name: Medical Research
-          tag: MR
-        - name: Photography
-          tag: Photo
-        - name: Daily Collection
-          tag: DC
+        tage: MR
     design:
       view: card
       flip_alt_rows: true
@@ -57,19 +46,10 @@ sections:
         # The folders to display content from
         folders:
           - project
-        author: "admin"
-        category: ""
-        tag: "photos"
+        tag: "Photo"
         publication_type: ""
         featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
       offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
       sort_ascending: false
     design:
       # Choose a listing view
