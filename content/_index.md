@@ -21,11 +21,12 @@ sections:
     author: admin
     
   - widget: portfolio
+    headless: true
+    weight: 20
+    title: 一个人做科研太轻松了，带上这个吧👆
     content:
-      title: 一个人做科研太轻松了，带上这个吧👆
       page_type: project
       filter_default: 0
-
       filter_button:
         - name: All
           tag: '*'
