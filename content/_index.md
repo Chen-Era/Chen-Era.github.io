@@ -9,7 +9,7 @@ type: landing
 
 # Page sections
 sections:
-  - block: resume-biography
+  - block: github.Chen-Era.BloxsbyChen-biography
     content:
       # The user's folder name in `content/authors/`
       username: admin
