@@ -6,7 +6,7 @@ sections:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
         filename: 'MyBackground.jpg'
-        focal_point: 'Center'
+        focal_point: 'Top'
         preview_only: false  
       biography:
         # Customize the CSS style of your biography text (optional)
