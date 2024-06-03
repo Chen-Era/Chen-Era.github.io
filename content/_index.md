@@ -3,7 +3,7 @@
 sections:
   - block: resume-biography
     contents:
-      text:一个人做科研太简单了，带上这个吧👆
+      text:一个人做科研太轻松了，带上这个吧👆
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
