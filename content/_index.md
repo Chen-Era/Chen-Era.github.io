@@ -4,6 +4,7 @@ sections:
   - block: resume-biography
     contents:
       bio: true
+      text: 'a'
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
