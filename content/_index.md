@@ -47,8 +47,7 @@ sections:
       # Choose a listing view
       view: card
 
-  - block: portfolio
-    id: projects
+  - widget: portfolio
     content:
       title: Projects
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
