@@ -2,7 +2,6 @@
 
 sections:
   - block: resume-biography
-    content:
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
