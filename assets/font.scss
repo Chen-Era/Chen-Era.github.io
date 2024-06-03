@@ -1,0 +1,25 @@
+// 定义中文字体  
+@font-face {  
+  font-family: 'MyChineseFont';  
+  src: url('/fonts/a-otf-kyokaicapro-regular-webfont.woff2') format('woff2');  
+  font-weight: normal;  
+  font-style: normal;  
+}  
+  
+// 定义英文字体  
+@font-face {  
+  font-family: 'MyEnglishFont';  
+  src: url('/fonts/garamondpremrpro-smbd-webfont.woff2') format('woff2');  
+  font-weight: normal;  
+  font-style: normal;  
+}  
+  
+// 设置全局字体  
+body {  
+  font-family: 'MyEnglishFont', sans-serif; // 默认使用英文字体，若字符无法显示则回退到无衬线字体  
+}  
+  
+// 针对中文内容的样式  
+.chinese-content {  
+  font-family: 'MyChineseFont', 'MyEnglishFont', sans-serif; // 中文内容优先使用中文字体  
+}
