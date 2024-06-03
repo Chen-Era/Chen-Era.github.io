@@ -36,7 +36,6 @@ sections:
           tag: Photo
         - name: Daily Collection
           tag: DC
-    
     design:
       view: card
       flip_alt_rows: true
