@@ -3,32 +3,56 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 
-design:
-  # Default section spacing
-  image:
-    # Upload your cover image to the `assets/media/` folder and reference it here
-    placement: 1
-    focal_point: 'Smart'
-    preview_only: false
-    filename: MyBackground.jpg
+
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
 # Page sections
 sections:
-  - block: experience
+  - block: resume-biography
     content:
-      title: Medical Researches
+      # The user's folder name in `content/authors/`
       username: admin
-  - block: skills
-    content:
-      title: Photographs
-      username: admin
+      # Show a call-to-action button under your biography? (optional)
+      # To link to a file, upload it to your `static/uploads/` folder
       button:
         text: Download Résumé
         url: uploads/resume.pdf
-  - block: awards
+    design:
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: 'MyBackground.jpg'
+      biography:
+        # Customize the CSS style of your biography text (optional)
+        style: ''
+  - block: collection
+    id: photos
     content:
-      title: Small Blessings
-      username: admin
+      title: Photography
+      subtitle: ''
+      text: 'Basically shot in Lumix GX9'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - photos
+        author: "admin"
+        category: ""
+        tag: "photos"
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: card
 ---
