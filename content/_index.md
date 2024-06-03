@@ -19,7 +19,7 @@ sections:
     content:
       title: 一个人做科研太轻松了，带上这个吧👆
       subtitle: ''
-      text: 'Constantly updated, if possible()'
+      text: '大概率断更，小概率退坑（'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       filters:
@@ -37,7 +37,7 @@ sections:
     id: photos
     headless: true
     content:
-      title: Photography
+      title: 哪都拍拍
       subtitle: ''
       text: '📷: Lumix GX9'
       # Choose how many pages you would like to display (0 = all pages)
@@ -59,9 +59,9 @@ sections:
     id: daily
     headless: true
     content:
-      title: Small Blessings
+      title: 日常小确幸
       subtitle: ''
-      text: 'Which can save the day...'
+      text: '最闲暇的时光大抵如此'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
