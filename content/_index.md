@@ -3,6 +3,8 @@
 sections:
   - block: resume-biography
     contents:
+      title: Biography
+      username: admin
       summary: '一个人做科研太轻松了，带上这个吧👆'
     design:
       banner:
@@ -16,7 +18,7 @@ sections:
 
   - widget: portfolio
     content:
-      title: Collections
+      title: 一个人做科研太轻松了，带上这个吧👆
       text: 
       filters:
         # Folders to display content from
