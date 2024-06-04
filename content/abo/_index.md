@@ -12,15 +12,12 @@ cascade:
 sections:  
   - block: collection  
     id: CV  
-    content: |  
-      ## Brief CV  
-        
-      ![我的简历图片描述](underconstruction.png)  
-  
-      这里是关于我的简历的一些文字描述...  
-    filters:  
-      folders:  
-        - abo  
-    design:  
-      view: article-grid  
+    content: 
+      title: Brief CV  
+      filters:  
+        folders:  
+          - abo  
+      design:  
+        view: article-grid  
 ---
+      ![我的简历图片描述](underconstruction.png)  
