@@ -1,4 +1,7 @@
 ---
+title:"Contact Me!"
+date: 2024-06-05T06:00:00Z  
+
 sections:
   - block: hero
     content:
@@ -13,7 +16,6 @@ sections:
       announcement:
         text: 也是实名网上冲浪了
 
-sections:
   - block: cta-button-list
     id: socialmedia
     content:
