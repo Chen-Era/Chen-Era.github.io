@@ -19,4 +19,3 @@ sections:
     filename: underconstruction.png
 
 ---
-      ![我的简历图片描述](underconstruction.png)  
