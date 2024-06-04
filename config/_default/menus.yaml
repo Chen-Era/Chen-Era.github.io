@@ -11,6 +11,6 @@ main:
     url: about/
     weight: 20
   - name: Resources💾
-    url: resources/
+    url: res/
     weight: 30
 
