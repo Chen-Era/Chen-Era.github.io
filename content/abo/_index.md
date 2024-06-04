@@ -1,5 +1,5 @@
 ---
-title: "about"  
+title: "About"  
 date: 2023-07-06T10:00:00Z  
 summary: My courses
 
@@ -16,9 +16,16 @@ sections:
       title: Brief CV
       filters:
         folders:
-          - about
+          - abo
     design:
       view: article-grid
       columns: 2
+
+  - widget: about.avatar
+     active: true
+     headless: true
+     weight: 10
+     title: Hello
+     author: admin
 ---
 
