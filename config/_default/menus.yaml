@@ -8,9 +8,9 @@ main:
     url: /
     weight: 10
   - name: CV📄
-    url: blog/
+    url: About/
     weight: 20
-  - name: Resouces💾
-    url: uses/
+  - name: Resources💾
+    url: Resources/
     weight: 30
 
