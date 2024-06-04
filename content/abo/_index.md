@@ -19,7 +19,7 @@ sections:
           - abo
     design:
       view: article-grid
-      columns: 2
+
 
   - widget: about.avatar
      active: true
