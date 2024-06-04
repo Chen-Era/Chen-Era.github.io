@@ -15,18 +15,18 @@ sections:
 
 sections:
   - block: cta-button-list
-     id: socialmedia
-     content:
-       buttons:
-         - text: x
-            icon: brands/x
-            url: https://twitter.com/CJYorKing
-         - text: instagram
-            icon: brands/instagram
-            url: https://www.instagram.com/cjyorking
-         - text: xhs
-            icon: book.svg
-            url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
+    id: socialmedia
+    content:
+      buttons:
+        - text: x
+          icon: brands/x
+          url: https://twitter.com/CJYorKing
+        - text: instagram
+          icon: brands/instagram
+          url: https://www.instagram.com/cjyorking
+        - text: xhs
+          icon: book.svg
+          url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
 ---
 ![Wechat](QRcode.jpg)
 
