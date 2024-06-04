@@ -43,7 +43,7 @@ header:
     button:
       enable: true
       text: "Contact Me"
-      url: "Contact/"
+      url: "/contactme"
     # Let the user choose between light or dark mode?
     show_theme_chooser: true
     # Let the user search from the navigation bar?
