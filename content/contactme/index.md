@@ -5,8 +5,8 @@ sections:
       title: Contact Me
       primary_action:
         text: E-Mail
-          url: 'mailto:Chen@era.ac.cn'
-          icon: at-symbol
+        url: 'mailto:Chen@era.ac.cn'
+        icon: at-symbol
       secondary_action:
         text: More social media
         url: #socialmedia
