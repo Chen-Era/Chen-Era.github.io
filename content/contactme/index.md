@@ -1,5 +1,6 @@
 ---
-title: "Contact Me!"
+title: Contact Me!
+type: landing
 date: 2024-06-04T06:00:00Z  
 
 sections:
