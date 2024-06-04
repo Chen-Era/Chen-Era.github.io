@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: CV📄
-    url: about/
+    url: abo/
     weight: 20
   - name: Resources💾
     url: res/
