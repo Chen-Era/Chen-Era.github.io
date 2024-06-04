@@ -10,6 +10,14 @@ cascade:
       show_breadcrumb: true  
   
 sections:  
+  image:
+    placement: 1
+    caption: '施工中'
+    focal_point: 'Center'
+    preview_only: false
+    alt_text: An optional description of the image for screen readers.
+    filename: underconstruction.png
+
   - block: collection  
     id: CV  
     content: 
