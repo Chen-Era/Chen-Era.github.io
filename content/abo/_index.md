@@ -22,10 +22,10 @@ sections:
 
 
   - widget: about.avatar
-    active: true
-    headless: true
-    weight: 10
-    title: Hello
-    author: admin
+     active: true
+     headless: true
+     weight: 10
+     title: Hello
+     author: admin
 ---
 
