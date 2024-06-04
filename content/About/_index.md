@@ -1,4 +1,4 @@
 ---
 title: about
-type: widget_page
+url: /About/
 ---
