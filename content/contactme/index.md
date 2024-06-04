@@ -28,7 +28,7 @@ sections:
           icon: brands/instagram
           url: https://www.instagram.com/cjyorking
         - text: xhs
-          icon: book.svg
+          icon: custom/book.svg
           url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
 ---
 ![Wechat](QRcode.jpg)
