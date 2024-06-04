@@ -18,14 +18,5 @@ sections:
     alt_text: An optional description of the image for screen readers.
     filename: underconstruction.png
 
-  - block: collection  
-    id: CV  
-    content: 
-      title: Brief CV  
-      filters:  
-        folders:  
-          - abo  
-      design:  
-        view: article-grid  
 ---
       ![我的简历图片描述](underconstruction.png)  
