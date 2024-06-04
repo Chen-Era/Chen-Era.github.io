@@ -1,17 +1,17 @@
 ---
 sections:
   - block: hero
-     content:
-       title: Contact Me
-       primary_action:
-         text: E-Mail
-         url: 'mailto:Chen@era.ac.cn'
-         icon: at-symbol
-       secondary_action:
-         text: More social media
-         url: #socialmedia
-       announcement:
-         text: 也是实名网上冲浪了
+    content:
+      title: Contact Me
+      primary_action:
+        text: E-Mail
+          url: 'mailto:Chen@era.ac.cn'
+          icon: at-symbol
+      secondary_action:
+        text: More social media
+        url: #socialmedia
+      announcement:
+        text: 也是实名网上冲浪了
 
 sections:
   - block: cta-button-list
