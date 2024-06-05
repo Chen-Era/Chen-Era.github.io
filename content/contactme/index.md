@@ -30,7 +30,7 @@ sections:
         - text: X
           icon: brands/x
           url: https://twitter.com/CJYorKing
-        - text: instagram
+        - text: Instagram
           icon: brands/instagram
           url: https://www.instagram.com/cjyorking
         - text: 小红书
