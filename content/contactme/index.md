@@ -37,16 +37,8 @@ sections:
     
   - block: markdown
     content:
-      text: 陈纪元 
-      text: 北京大学第三医院,100191
-      text: 188 0143 0995
-      text: chenjiyuan@pku.edu.cn, chen@era.ac.cn
-      text: http://era.ac.cn
-      text: Chen Jiyuan
-      text: Peking University Third Hospital,100191 
-      text: Mobile: (+086) 188 0143 0995
-      text: E-mail: chenjiyuan@pku.edu.cn, chen@era.ac.cn
-      text: Website: http://era.ac.cn
+      text:![Wechat](QRcode.jpg)
+
 ---
 ![Wechat](QRcode.jpg)
 
