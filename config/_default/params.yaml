@@ -17,14 +17,14 @@ marketing:
     description: 'Personal website of Era_Chen'
     twitter: ''
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: 'JIYUAN'
+    baidu_tongji: 'JIYUAN'
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
-    baidu: ''
+    google: '陈纪元'
+    baidu: '陈纪元'
 
 header:
   navbar:
