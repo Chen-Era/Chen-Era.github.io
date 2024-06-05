@@ -39,6 +39,11 @@ sections:
     content:
       text:![Wechat](QRcode.jpg)
 
+
+  - block: markdown
+    content:
+      text:!>陈纪元
+
 ---
 ![Wechat](QRcode.jpg)
 
