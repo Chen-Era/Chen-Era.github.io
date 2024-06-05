@@ -16,8 +16,6 @@ sections:
         url: #socialmedia
       announcement:
         text: 也是实名网上冲浪了
-    design:
-      spacing: "2rem"
     
   - block: cta-button-list
     id: socialmedia
@@ -39,8 +37,7 @@ sections:
         preview_only: false
         alt_text: An optional description of the image for screen readers.
         filename: QRcode.jpg  
-    design:
-      spacing: "2rem"
+
 ---
 ![Wechat](QRcode.jpg)
 
