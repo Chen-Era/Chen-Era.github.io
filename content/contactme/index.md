@@ -1,5 +1,6 @@
 ---
 title: Contact Me!
+type: landing
 date: 2024-06-04T06:00:00Z  
 
 sections:
@@ -31,18 +32,15 @@ sections:
         - text: xhs
           icon: custom/book.svg
           url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
+      image:
+        placement: 1
+        caption: 'Photo by [Geo](https://github.com/gcushen/)'
+        focal_point: 'Center'
+        preview_only: false
+        alt_text: An optional description of the image for screen readers.
+        filename: QRcode.jpg  
     design:
       spacing: "2rem"
-    
-  - block: markdown
-    content:
-      text:![Wechat](QRcode.jpg)
-
-
-  - block: markdown
-    content:
-      text:!>陈纪元
-
 ---
 ![Wechat](QRcode.jpg)
 
