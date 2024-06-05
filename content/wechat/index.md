@@ -6,7 +6,7 @@ title: QR code for Wechat
 </div>
 
 <br><br>
-<div style="border-top: 1px dashed #000; width: 100%;"></div>
+<div style="border-top: 1px dashed #fff; width: 100%;"></div>
 陈纪元
 
 北京大学第三医院,100191
