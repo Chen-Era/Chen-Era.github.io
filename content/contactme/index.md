@@ -1,32 +1,49 @@
 ---
-sections:
-  - block: hero
-     content:
-       title: Contact Me
-       primary_action:
-         text: E-Mail
-         url: 'mailto:Chen@era.ac.cn'
-         icon: at-symbol
-       secondary_action:
-         text: More social media
-         url: #socialmedia
-       announcement:
-         text: 也是实名网上冲浪了
+title: Contact Me!
+type: landing
+date: 2024-06-04T06:00:00Z  
 
 sections:
+  - block: hero
+    headless: true
+    content:
+      title: Contact Me
+      primary_action:
+        text: E-Mail
+        url: 'mailto:Chen@era.ac.cn'
+        icon: at-symbol
+      secdonary_action:
+        text: More social media
+        link:
+          text: Wechat
+          url: /wechat
+      announcement:
+        text: 也是实名网上冲浪了
+        link:
+          text: Wechat
+          url: /wechat
+    
   - block: cta-button-list
-     id: socialmedia
-     content:
-       buttons:
-         - text: x
-            icon: brands/x
-            url: https://twitter.com/CJYorKing
-         - text: instagram
-            icon: brands/instagram
-            url: https://www.instagram.com/cjyorking
-         - text: xhs
-            icon: book.svg
-            url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
+    id: socialmedia
+    content:
+      buttons:
+        - text: x
+          icon: brands/x
+          url: https://twitter.com/CJYorKing
+        - text: instagram
+          icon: brands/instagram
+          url: https://www.instagram.com/cjyorking
+        - text: xhs
+          icon: custom/book.svg
+          url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
+      image:
+        placement: 1
+        caption: 'Photo by [Geo](https://github.com/gcushen/)'
+        focal_point: 'Center'
+        preview_only: false
+        alt_text: An optional description of the image for screen readers.
+        filename: QRcode.jpg  
+
 ---
 ![Wechat](QRcode.jpg)
 
