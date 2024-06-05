@@ -14,10 +14,14 @@ sections:
         icon: at-symbol
       secdonary_action:
         text: More social media
-        url: #socialmedia
-        icon: brands/x
+        link:
+          text: Wechat
+          url: /wechat
       announcement:
         text: 也是实名网上冲浪了
+        link:
+          text: Wechat
+          url: /wechat
     
   - block: cta-button-list
     id: socialmedia
