@@ -1,5 +1,5 @@
 ---
-title: QR code for Wecah
+title: QR code for Wechat
 ---
 <div style="text-align:center;">  
     <img src="QRcode.jpg" style="width:500px; height:500px;">  
