@@ -27,13 +27,13 @@ sections:
     id: socialmedia
     content:
       buttons:
-        - text: x
+        - text: X
           icon: brands/x
           url: https://twitter.com/CJYorKing
         - text: instagram
           icon: brands/instagram
           url: https://www.instagram.com/cjyorking
-        - text: xhs
+        - text: 小红书
           icon: "custom/book"
           url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
       image:
