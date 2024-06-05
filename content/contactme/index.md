@@ -7,7 +7,7 @@ sections:
   - block: hero
     headless: true
     content:
-      title: Contact Me
+      title: Contact Me！
       primary_action:
         text: E-Mail
         url: 'mailto:Chen@era.ac.cn'
