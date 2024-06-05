@@ -18,7 +18,7 @@ sections:
         text: 也是实名网上冲浪了
     design:
       spacing: "2rem"
-
+    
   - block: cta-button-list
     id: socialmedia
     content:
@@ -34,10 +34,10 @@ sections:
           url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
     design:
       spacing: "2rem"
-
-    - block: markdown
-      content:
-      text: >陈纪元
+    
+  - block: markdown
+    content:
+    text: >陈纪元
 >
 >北京大学第三医院,100191
 >
