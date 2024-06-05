@@ -17,7 +17,7 @@ sections:
       announcement:
         text: 也是实名网上冲浪了
     design:
-    spacing: "2rem"
+      spacing: "2rem"
 
   - block: cta-button-list
     id: socialmedia
@@ -33,7 +33,7 @@ sections:
           icon: custom/book.svg
           url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
     design:
-    spacing: "2rem"
+      spacing: "2rem"
 
     - block: markdown
       content:
