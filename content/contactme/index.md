@@ -16,6 +16,8 @@ sections:
         url: #socialmedia
       announcement:
         text: 也是实名网上冲浪了
+    design:
+    spacing: "2rem"
 
   - block: cta-button-list
     id: socialmedia
@@ -30,6 +32,33 @@ sections:
         - text: xhs
           icon: custom/book.svg
           url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
+    design:
+    spacing: "2rem"
+
+    - block: markdown
+      content:
+      text: >陈纪元
+>
+>北京大学第三医院,100191
+>
+>188 0143 0995
+>
+>chenjiyuan@pku.edu.cn, chen@era.ac.cn
+>
+>http://era.ac.cn
+>
+>
+>
+>Chen Jiyuan
+>
+>Peking University Third Hospital,100191 
+>
+>Mobile: (+086) 188 0143 0995
+>
+>E-mail: chenjiyuan@pku.edu.cn, chen@era.ac.cn
+>
+>Website: http://era.ac.cn
+---
 ---
 ![Wechat](QRcode.jpg)
 
