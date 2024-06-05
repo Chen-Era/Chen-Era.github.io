@@ -42,8 +42,8 @@ education:
     summary: |
       Banzhuaning
     button:
-      text: 'Read Thesis'
-      url: 'https://www.liebertpub.com/doi/10.1089/end.2023.0038?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed'
+      text: 'check ORCiD'
+      url: 'https://orcid.org/my-orcid?orcid=0000-0001-5649-4458'
   - area: MB in Clinical Medicine
     institution: Peking University Health Science Center
     date_start: 2020-07-01
