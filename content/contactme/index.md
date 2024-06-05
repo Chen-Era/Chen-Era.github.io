@@ -12,9 +12,10 @@ sections:
         text: E-Mail
         url: 'mailto:Chen@era.ac.cn'
         icon: at-symbol
-      primary_action:
+      secdonary_action:
         text: More social media
         url: #socialmedia
+        icon: brands/x
       announcement:
         text: 也是实名网上冲浪了
     
