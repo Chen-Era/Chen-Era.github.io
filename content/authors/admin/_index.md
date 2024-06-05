@@ -39,11 +39,9 @@ education:
   - area: MD in Surgery
     institution: Peking University Third Hospital
     date_start: 2024-05-01
-    summary: |
-      Banzhuaning
     button:
       text: 'check ORCiD'
-      url: 'https://orcid.org/my-orcid?orcid=0000-0001-5649-4458'
+      url: 'https://orcid.org/0000-0001-5649-4458'
   - area: MB in Clinical Medicine
     institution: Peking University Health Science Center
     date_start: 2020-07-01
