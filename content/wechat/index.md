@@ -1,3 +1,6 @@
+---
+title: QR code for Wecah
+---
 ![Wechat](QRcode.jpg)
 
 
