@@ -2,7 +2,7 @@
 title: QR code for Wechat
 ---
 <div style="text-align:center;">  
-    <img src="QRcode.jpg" style="width:500px; height:500px;">  
+    <img src="QRcode.jpg" style="width:300px; height:300px;">  
 </div>
 
 
