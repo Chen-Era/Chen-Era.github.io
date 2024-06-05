@@ -18,9 +18,9 @@ sections:
           text: Wechat
           url: /wechat
       announcement:
-        text: 也是实名网上冲浪了
+        text: 也是实名网上冲浪了,微信
         link:
-          text: Wechat
+          text: 请见
           url: /wechat
     
   - block: cta-button-list
@@ -34,7 +34,7 @@ sections:
           icon: brands/instagram
           url: https://www.instagram.com/cjyorking
         - text: xhs
-          icon: custom/book.svg
+          icon: "custom/book"
           url: https://www.xiaohongshu.com/user/profile/5e47dd35000000000100875a
       image:
         placement: 1
