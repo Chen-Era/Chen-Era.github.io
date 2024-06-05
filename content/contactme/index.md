@@ -5,13 +5,14 @@ date: 2024-06-04T06:00:00Z
 
 sections:
   - block: hero
+    headless: true
     content:
       title: Contact Me
       primary_action:
         text: E-Mail
         url: 'mailto:Chen@era.ac.cn'
         icon: at-symbol
-      secondary_action:
+      primary_action:
         text: More social media
         url: #socialmedia
       announcement:
